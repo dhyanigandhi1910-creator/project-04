@@ -27,3 +27,6 @@ A beginner-friendly menu-driven Python program to analyze and transform 1D numer
 - Python beginners
 - Practice with data operations
 - College / school mini projects
+
+## Author 
+Dhyani Gandhi 
