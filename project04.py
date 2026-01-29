@@ -30,8 +30,7 @@ def sort_data():
     elif choice == '2':
         print("Sorted Data:", sorted(data, reverse=True))
 
-def dataset_stats():
-    """Returns min, max, sum, avg"""
+def dataset_stats():haa ej me bi vicharu
     return min(data), max(data), sum(data), round(sum(data)/len(data), 2)
 
 def main():
@@ -70,6 +69,7 @@ def main():
             print("Invalid choice. Try again.")
 
 main()
+
 
 
 
